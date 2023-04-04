@@ -1,4 +1,4 @@
-# 21-Advansed solidity (KasseiCoin)
+Advansed solidity (KasseiCoin)
  Unit 21: Martian Token Crowdsale
 
 ![alt=""](Images/application-image.png)
